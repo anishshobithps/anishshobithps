@@ -1,11 +1,24 @@
-<p align = "centre">
-    <h2> Hello 👋, I'm Anish Shobith P S </h2>
-    <br />
-    <hr>
-    <br />
+<div align="center">
+    <h2> Hello 👋, I'm Anish </h2>
     <a href="https://www.instagram.com/anish_shobith/">
-    <img align="left" alt="Anish Shobith's Instagram" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-</p>
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&theme=dracula&hide_border=true">
+    <img alt="Anish Shobith's Instagram" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg">
+    </a>
+    <a href="https://discord.gg/cWgDskT">
+    <img alt="Anish Shobith's Discord", width="25px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg">
+    </a>
+    <a href="https://open.spotify.com/user/goshcrm0y9jzum2lffvu6f4hz">
+    <img alt="Anish Shobith's Spotify", width="25px" src="https://image.flaticon.com/icons/svg/2111/2111624.svg">
+    </a>
+    <br>
+        <i> <strong> Hi, I'm Anish Shobith P S, a passionate self-taught developer from India. </strong> </i>
+    <hr>
+    <h4> <i> Programming Languages and Tools </i> </h4>
+    <code><img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+    <hr>
+    <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&theme=dracula&hide_border=true">
+    
+    
+</div>
