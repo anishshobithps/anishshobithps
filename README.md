@@ -33,7 +33,7 @@
     <img width="25px" src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code512.png">
     </code>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&theme=dracula&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&hide_border=true">
     
     
 </div>
