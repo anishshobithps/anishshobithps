@@ -10,7 +10,7 @@
     <img alt="Anish Shobith's Spotify", width="25px" src="https://image.flaticon.com/icons/svg/2111/2111624.svg">
     </a>
     <br>
-        <i> <strong> Hi, I'm Anish Shobith P S, a passionate self-taught backend developer from India. </strong> </i>
+    Hi, I'm Anish Shobith P S, a passionate self-taught ackend developer from <a href="https://www.google.com/maps/search/?api=1&query=India,Mangalore">India, Mangalore</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
