@@ -112,7 +112,7 @@
 					<div align="center">
 						<h2> Hello 👋, I'm Anish </h2>
 						<a href="https://www.instagram.com/anish_shobith/">
-							<img alt="Anish Shobith's Instagram" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+							<image xlink:href="./assets/instagram.svg" />
 						</a>
 						<a href="https://discord.gg/cWgDskT">
 							<img alt="Anish Shobith's Discord" width="25px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg" />
