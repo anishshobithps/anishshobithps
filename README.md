@@ -33,7 +33,8 @@
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg">
     </code>
     <hr>
-    <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&hide_border=true">
-    
+    <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Shobith&layout=compact&langs_count=8&theme=dark">
     
 </div>
