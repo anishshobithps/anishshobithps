@@ -10,7 +10,7 @@
     <img alt="Anish Shobith's Spotify", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/spotify.svg">
     </a>
     <br>
-    Hi, I'm Anish Shobith P S, a passionate self-taught backend developer from <a href="https://www.google.com/maps/search/?api=1&query=Mangalore,India">Mangalore, India</a>
+    Hi, I'm Anish Shobith P S, a passionate self-taught developer from <a href="https://www.google.com/maps/search/?api=1&query=Mangalore,India">Mangalore, India</a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
