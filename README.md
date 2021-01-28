@@ -36,5 +36,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Shobith&layout=compact&langs_count=8&theme=dark">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anish_Shobith&layout=compact">
     
 </div>
