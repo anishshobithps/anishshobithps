@@ -153,7 +153,7 @@
 								<img src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRjM0RjI5IiBkPSJNMTI0LjczNyA1OC4zNzhsLTU1LjExNi01NS4xMTRjLTMuMTcyLTMuMTc0LTguMzItMy4xNzQtMTEuNDk3IDBsLTExLjQ0NCAxMS40NDYgMTQuNTE4IDE0LjUxOGMzLjM3NS0xLjEzOSA3LjI0My0uMzc1IDkuOTMyIDIuMzE0IDIuNzAzIDIuNzA2IDMuNDYxIDYuNjA3IDIuMjk0IDkuOTkzbDEzLjk5MiAxMy45OTNjMy4zODUtMS4xNjcgNy4yOTItLjQxMyA5Ljk5NCAyLjI5NSAzLjc4IDMuNzc3IDMuNzggOS45IDAgMTMuNjc5LTMuNzggMy43OC05LjkwMSAzLjc4LTEzLjY4MyAwLTIuODQyLTIuODQ0LTMuNTQ1LTcuMDE5LTIuMTA1LTEwLjUyMWwtMTMuMDQ4LTEzLjA0OC0uMDAyIDM0LjM0MWMuOTIyLjQ1NSAxLjc5MSAxLjA2MyAyLjU1OSAxLjgyOCAzLjc3OCAzLjc3NyAzLjc3OCA5Ljg5OCAwIDEzLjY4My0zLjc3OSAzLjc3Ny05LjkwNCAzLjc3Ny0xMy42NzkgMC0zLjc3OC0zLjc4NC0zLjc3OC05LjkwNSAwLTEzLjY4My45MzQtLjkzMyAyLjAxNC0xLjYzOCAzLjE2Ny0yLjExdi0zNC42NTljLTEuMTUzLS40NzItMi4yMzEtMS4xNzItMy4xNjctMi4xMTEtMi44NjItMi44Ni0zLjU1MS03LjA2LTIuMDgzLTEwLjU3NmwtMTQuMzEzLTE0LjMxMy0zNy43OTIgMzcuNzljLTMuMTc1IDMuMTc3LTMuMTc1IDguMzI1IDAgMTEuNWw1NS4xMTcgNTUuMTE0YzMuMTc0IDMuMTc0IDguMzIgMy4xNzQgMTEuNDk5IDBsNTQuODU4LTU0Ljg1OGMzLjE3NC0zLjE3NiAzLjE3NC04LjMyNy0uMDAxLTExLjUwMXoiLz48L3N2Zz4=' width="25px"/>
 							</code>
 							<hr />
-							<img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;count_private=true" />
+							<img src=url("https://github-readme-stats.vercel.app/api?username=Anish-Shobith&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;count_private=true") />
 							<br />
 							<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Shobith&amp;layout=compact&amp;langs_count=8&amp;theme=dark" />
 							<br />
