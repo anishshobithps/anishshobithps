@@ -3,7 +3,7 @@
     <a href="https://www.instagram.com/anish_shobith/">
     <img alt="Anish Shobith's Instagram" width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/instagram.svg">
     </a>
-    <a href="https://discord.gg/cWgDskT">
+    <a href="https://discord.gg/fhYt4CpG8T">
     <img alt="Anish Shobith's Discord", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg">
     </a>
     <a href="https://open.spotify.com/user/goshcrm0y9jzum2lffvu6f4hz">
