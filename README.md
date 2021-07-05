@@ -33,6 +33,10 @@
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg">
     </code>
     <hr>
+    <a href="https://discord.com/users/259008949427109891">
+    <img src="https://lanyard-profile-readme.vercel.app/api/259008949427109891">
+    </a>
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Shobith&layout=compact&langs_count=8&theme=dark">
