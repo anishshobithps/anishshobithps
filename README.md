@@ -22,29 +22,30 @@
     </a>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
-    <code><img align="center" width="25px" src="./assets/languages/c.svg"></code>
-    <code><img align="center" width="25px" src="./assets/languages/cpp.svg"></code>
-    <code><img align="center" width="25px" src="./assets/languages/elixir.svg"></code>
-    <code><img align="center" width="25px" src="./assets/languages/html.svg"></code>
-    <code><img align="center" width="25px" src="./assets/languages/javascript.svg"></code>
-    <code><img align="center" width="25px" src="./assets/languages/ruby.svg"></code>
-    <code><img align="center" width="25px" src="./assets/languages/typescript.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/docker.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/git.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/googlecloud.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/heroku.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/intellij.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/linux.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/nodejs.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/visualstudiocode.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/webstorm.svg"></code>
-    <code><img align="center" width="25px" src="./assets/tools/yarn.svg"></code>
+    <img align="center" width="25px" src="./assets/languages/c.svg">
+    <img align="center" width="25px" src="./assets/languages/cpp.svg">
+    <img align="center" width="25px" src="./assets/languages/elixir.svg">
+    <img align="center" width="25px" src="./assets/languages/html.svg">
+    <img align="center" width="25px" src="./assets/languages/javascript.svg">
+    <img align="center" width="25px" src="./assets/languages/ruby.svg">
+    <img align="center" width="25px" src="./assets/languages/typescript.svg">
+    <img align="center" width="25px" src="./assets/tools/docker.svg">
+    <img align="center" width="25px" src="./assets/tools/git.svg">
+    <img align="center" width="25px" src="./assets/tools/googlecloud.svg">
+    <img align="center" width="25px" src="./assets/tools/heroku.svg">
+    <img align="center" width="25px" src="./assets/tools/intellij.svg">
+    <img align="center" width="25px" src="./assets/tools/linux.svg">
+    <img align="center" width="25px" src="./assets/tools/nodejs.svg">
+    <img align="center" width="25px" src="./assets/tools/visualstudiocode.svg">
+    <img align="center" width="25px" src="./assets/tools/webstorm.svg">
+    <img align="center" width="25px" src="./assets/tools/yarn.svg">
     <hr>
     <br>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anish_Shobith&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-shobith&" alt="anish-shobith" />
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Shobith&layout=compact&langs_count=8&theme=dark">
     <br>
     
