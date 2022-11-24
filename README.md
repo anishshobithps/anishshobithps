@@ -1,3 +1,1 @@
-<div align="center">
-	<img src="https://github.com/Anish-Shobith/Anish-Shobith/raw/master/assets/anish.svg?sanitize=true">
-</div>
+![Anish Shobith's Card](https://cardivo.vercel.app/api?name=Anish%20Shobith%20P%20S&description=Hi%20there%F0%9F%91%8B,%20I%20am%20a%2020-years-old.%20I%20am%20a%20Web%20and%20Application%20developer%20from%20India.%20Nice%20to%20meet%20you%20all.%20Looking%20forward%20to%20paritcipate%20with%20you.&image=https://i.imgur.com/WlQk3PY.jpg&&disableAnimation=true&site=https://anishshobithps.tech&pattern=plus&colorPattern=%23171616&backgroundColor=%23121212&instagram=anish_shobith&linkedin=Anish%20Shobith%20P%20S&fontColor=%23ffffff&iconColor=%23ffffff)
