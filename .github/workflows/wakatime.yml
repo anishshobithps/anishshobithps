@@ -6,18 +6,21 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  sign-commits:
+    name: Sign commits
     runs-on: ubuntu-latest
     steps:
-    - name: Import GPG key for signing commits
-      - uses: crazy-max/ghaction-import-gpg@v4
+      - uses: crazy-max/ghaction-import-gpg@v3
         with:
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.GPG_PASSPHRASE }}
           git-user-signingkey: true
           git-commit-gpgsign: true
-    - name: Wakatime Readme Stats
+  update-charts:
+    name: Update wakatime stats charts
+    needs: sign-commits
+    runs-on: ubuntu-latest
+    steps:
       - uses: dvjn/wakatime-charts@master
         with:
           COMMIT_MESSAGE: "update(wakatime): stats charts"
