@@ -10,6 +10,14 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
+    - name: Import GPG key for signing commits
+      - uses: crazy-max/ghaction-import-gpg@v4
+        with:
+          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.GPG_PASSPHRASE }}
+          git-user-signingkey: true
+          git-commit-gpgsign: true
+    - name: Wakatime Readme Stats
       - uses: dvjn/wakatime-charts@master
         with:
           COMMIT_MESSAGE: "update(wakatime): stats charts"

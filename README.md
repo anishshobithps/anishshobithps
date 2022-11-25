@@ -44,5 +44,9 @@
 [![Anish Shobith's GitHub Streak](https://streak-stats.demolab.com?user=Anish-Shobith&theme=tokyonight&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 <h2> Programing Stats </h2>
-![Wakatime](https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/images/wakatime_weekly_language_stats.svg)
+
+![Wakatime](https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/images/wakatime_weekly_project_stats.svg)
+</div>
+
+![Wakatime weekly language](https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/images/wakatime_weekly_language_stats.svg)
 </div>
