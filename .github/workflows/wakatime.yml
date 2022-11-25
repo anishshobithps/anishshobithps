@@ -6,8 +6,8 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  sign-commits:
-    name: Sign commits
+  update-charts:
+    name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -21,12 +21,8 @@ jobs:
           passphrase: ${{ secrets.GPG_PASSPHRASE }}
           git-user-signingkey: true
           git-commit-gpgsign: true
-  update-charts:
-    name: Update wakatime stats charts
-    needs: sign-commits
-    runs-on: ubuntu-latest
-    steps:
-      - uses: dvjn/wakatime-charts@master
+      - name: Update wakatime stats charts
+        uses: dvjn/wakatime-charts@master
         with:
           COMMIT_MESSAGE: "update(wakatime): stats charts"
           GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
