@@ -45,8 +45,5 @@
 
 <h2> Programing Stats </h2>
 
-![Wakatime](https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/images/wakatime_weekly_project_stats.svg)
-</div>
-
 ![Wakatime weekly language](https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/images/wakatime_weekly_language_stats.svg)
 </div>
