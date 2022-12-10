@@ -17,10 +17,14 @@ jobs:
           SHOWS_OS: "True"
           SHOW_PROJECTS: "True"
           COMMIT_BY_ME: "True"
-          COMMIT_USERNAME: Anish-Shobith
+          SHOW_COMMIT: "True"
+          COMMIT_USERNAME: "Anish-Shobith"
           COMMIT_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+          SHOW_SHORT_INFO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
