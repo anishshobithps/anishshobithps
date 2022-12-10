@@ -23,4 +23,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "True"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
