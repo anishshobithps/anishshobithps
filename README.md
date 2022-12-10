@@ -43,6 +43,8 @@
 
 [![Anish Shobith's GitHub Streak](https://streak-stats.demolab.com?user=Anish-Shobith&theme=tokyonight&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
+</div>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2036%20mins-blue)
 
