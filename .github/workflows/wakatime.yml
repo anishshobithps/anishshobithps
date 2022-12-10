@@ -3,29 +3,24 @@ name: Wakatime
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 6 * * *"
+    - cron: "30 18 * * *"
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+  update-readme:
+    name: Update wakatime stats.
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - name: Wakatime Stats
+        uses: anmol098/waka-readme-stats@master
         with:
-          persist-credentials: false
-      - name: Import bot's GPG key for signing commits 
-        uses: crazy-max/ghaction-import-gpg@v3
-        with:
-          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
-          passphrase: ${{ secrets.GPG_PASSPHRASE }}
-          git-user-signingkey: true
-          git-commit-gpgsign: true
-      - name: Update wakatime stats charts
-        uses: dvjn/wakatime-charts@master
-        with:
-          COMMIT_MESSAGE: "update(wakatime): stats charts"
-          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
-          GIT_USER_NAME: Anish-Shobith
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOWS_OS: "True"
+          SHOW_PROJECTS: "True"
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: Anish-Shobith
+          COMMIT_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+          SHOW_UPDATED_DATE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "True"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # only required if using the action in repository other than profile
