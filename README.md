@@ -17,25 +17,17 @@
     <br>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/javascript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/typescript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/cpp.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/ruby.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/html.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/nodejs.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/docker.svg"></code>
-    <code>
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/javascript.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/typescript.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/cpp.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/ruby.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/html.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/nodejs.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/docker.svg">
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/webstorm.svg">
-    </code>
-    <code>
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/intellij.svg">
-    </code>
-    <code>
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/visualstudiocode.svg">
-    </code>
-    <code>
     <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/git.svg">
-    </code>
 <hr>
  <h2> Github Stats </h2>
 
