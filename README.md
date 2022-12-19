@@ -39,7 +39,7 @@
 <hr>
  <h2> Github Stats </h2>
 
-![Anish Shobith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&theme=tokyonight&count_private=true)
+![Anish Shobith's GitHub stats](https://github-readme-stats-fk82.vercel.app/api?username=Anish-Shobith&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Anish Shobith's GitHub Streak](https://streak-stats.demolab.com?user=Anish-Shobith&theme=tokyonight&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
