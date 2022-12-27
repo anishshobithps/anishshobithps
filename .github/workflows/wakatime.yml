@@ -10,6 +10,16 @@ jobs:
     name: Update wakatime stats.
     runs-on: ubuntu-latest
     steps:
+      - name: Install GPG
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gpg
+
+      - name: Sign commit with GPG key
+        uses: actions/gpg-sign@v2
+        with:
+          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+
       - name: Wakatime Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -27,4 +37,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LOC_CHART: "False"
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # only required
