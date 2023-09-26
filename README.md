@@ -6,34 +6,34 @@
  <h2> Connect with me through </h2>
 <br>
 <a href="https://www.instagram.com/anish_shobith/">
-    <img alt="Anish Shobith's Instagram" width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/socials/instagram.svg">
+    <img alt="Anish Shobith's Instagram" width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/socials/instagram.svg">
     </a>
     <a href="https://discord.gg/cWgDskT">
-    <img alt="Anish Shobith's Discord", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/socials/discord.svg">
+    <img alt="Anish Shobith's Discord", width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/socials/discord.svg">
     </a>
     <a href="https://open.spotify.com/user/goshcrm0y9jzum2lffvu6f4hz">
-    <img alt="Anish Shobith's Spotify", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/socials/spotify.svg">
+    <img alt="Anish Shobith's Spotify", width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/socials/spotify.svg">
     </a>
     <br>
     <hr>
     <h4> <i> Programming Languages and Tools </i> </h4>
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/javascript.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/typescript.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/cpp.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/ruby.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/languages/html.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/nodejs.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/docker.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/webstorm.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/intellij.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/visualstudiocode.svg">
-    <img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/tools/git.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/languages/javascript.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/languages/typescript.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/languages/cpp.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/languages/ruby.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/languages/html.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/tools/nodejs.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/tools/docker.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/tools/webstorm.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/tools/intellij.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/tools/visualstudiocode.svg">
+    <img width="25px" src="https://raw.githubusercontent.com/anishshobithps/anishshobithps/master/assets/tools/git.svg">
 <hr>
  <h2> Github Stats </h2>
 
-![Anish Shobith's GitHub stats](https://github-readme-stats-fk82.vercel.app/api?username=Anish-Shobith&show_icons=true&theme=tokyonight&count_private=true)
+![Anish Shobith's GitHub stats](https://github-readme-stats-fk82.vercel.app/api?username=anishshobithps&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Anish Shobith's GitHub Streak](https://streak-stats.demolab.com?user=Anish-Shobith&theme=tokyonight&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![Anish Shobith's GitHub Streak](https://streak-stats.demolab.com?user=anishshobithps&theme=tokyonight&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
 
 </div>
 
