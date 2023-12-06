@@ -38,17 +38,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-571.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-588.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 307.8 kB Used in GitHub's Storage 
+> 📦 315.9 kB Used in GitHub's Storage 
  > 
-> 🏆 681 Contributions in the Year 2023
+> 🏆 695 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -56,45 +54,6 @@
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                139 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-🌆 Daytime                717 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-🌃 Evening                764 commits         ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-🌙 Night                  963 commits         █████████░░░░░░░░░░░░░░░░   37.28 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Tuesday                  415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                269 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Thursday                 400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Friday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Saturday                 390 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Sunday                   431 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 05/12/2023 18:36:32 UTC
+ Last Updated on 06/12/2023 18:37:21 UTC
 <!--END_SECTION:waka-->
