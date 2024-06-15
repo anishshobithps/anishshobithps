@@ -38,17 +38,15 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2052%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-924.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-930.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 345.4 kB Used in GitHub's Storage 
  > 
-> 🏆 613 Contributions in the Year 2024
+> 🏆 617 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,45 +54,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-🌆 Daytime                744 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌃 Evening                727 commits         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌙 Night                  1176 commits        ██████████░░░░░░░░░░░░░░░   39.86 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Tuesday                  397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Thursday                 417 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Friday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Saturday                 569 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Sunday                   480 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 14/06/2024 19:09:01 UTC
+ Last Updated on 15/06/2024 19:05:54 UTC
 <!--END_SECTION:waka-->
