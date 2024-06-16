@@ -38,15 +38,17 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2052%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-930.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 345.4 kB Used in GitHub's Storage 
  > 
-> 🏆 617 Contributions in the Year 2024
+> 🏆 625 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -54,6 +56,45 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 15/06/2024 19:05:54 UTC
+```text
+🌞 Morning                305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+🌆 Daytime                749 commits         ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+🌃 Evening                729 commits         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+🌙 Night                  1178 commits        ██████████░░░░░░░░░░░░░░░   39.78 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Tuesday                  397 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Wednesday                353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Thursday                 417 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Friday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Saturday                 572 commits         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Sunday                   488 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/06/2024 19:09:47 UTC
 <!--END_SECTION:waka-->
