@@ -38,8 +38,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C275%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
@@ -48,7 +46,7 @@
 
 > 📦 345.8 kB Used in GitHub's Storage 
  > 
-> 🏆 662 Contributions in the Year 2024
+> 🏆 663 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,45 +54,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-🌆 Daytime                780 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-🌃 Evening                757 commits         ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-🌙 Night                  1271 commits        ██████████░░░░░░░░░░░░░░░   40.58 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   407 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Tuesday                  420 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Wednesday                376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Thursday                 428 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Friday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Saturday                 607 commits         █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Sunday                   528 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 23/07/2024 19:10:14 UTC
+ Last Updated on 24/07/2024 19:14:51 UTC
 <!--END_SECTION:waka-->
