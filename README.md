@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://anishshobithps.com">
-      <picture->
+      <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/header_dark.svg" alt="About Me heading">
       <img src="./assets/sections/header_light.svg" alt="Anish Shobith P S's Github Header">
       </picture>
